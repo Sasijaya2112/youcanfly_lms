@@ -49,7 +49,9 @@ function Register() {
                         </div>
                     </div>
                     <div className=" gap-5 align-items-center">
+                    <Link to="/login">
                         <button type="submit" class="btn btn-danger mx-5 mt-3">Sign Up</button>
+                        </Link>
                         <Link to="/login">
                             <button type="submit" class="btn btn-primary mt-3">Back to Login</button>
                         </Link>
