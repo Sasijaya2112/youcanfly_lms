@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/youcanfly_lms/static/css/main.f855e6bc.css",
-    "main.js": "/youcanfly_lms/static/js/main.c1ac2351.js",
+    "main.js": "/youcanfly_lms/static/js/main.ed0b3c47.js",
     "static/js/787.0c2c5b88.chunk.js": "/youcanfly_lms/static/js/787.0c2c5b88.chunk.js",
     "static/media/ycflogo.png": "/youcanfly_lms/static/media/ycflogo.0e886c21a88331623645.png",
     "index.html": "/youcanfly_lms/index.html",
     "main.f855e6bc.css.map": "/youcanfly_lms/static/css/main.f855e6bc.css.map",
-    "main.c1ac2351.js.map": "/youcanfly_lms/static/js/main.c1ac2351.js.map",
+    "main.ed0b3c47.js.map": "/youcanfly_lms/static/js/main.ed0b3c47.js.map",
     "787.0c2c5b88.chunk.js.map": "/youcanfly_lms/static/js/787.0c2c5b88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c1ac2351.js"
+    "static/js/main.ed0b3c47.js"
   ]
 }
