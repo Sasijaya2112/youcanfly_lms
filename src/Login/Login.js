@@ -29,10 +29,10 @@ function Login() {
                 <input type="password" class="form-control" id="password" />
               </div>
               <div class="d-flex justify-content-center gap-3">
-                <Link to="/login">
+                <Link to="/youcanfly_lms/login">
                   <button type="submit" class="btn btn-primary mt-4 align-items-center">Login</button>
                 </Link>
-                <Link to="/register">
+                <Link to="/youcanfly_lms/register">
                   <button class="btn btn-danger mt-4 align-items-center">Sign Up</button>
                 </Link>
               </div>
