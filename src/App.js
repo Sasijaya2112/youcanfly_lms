@@ -2,6 +2,8 @@ import './App.css';
 import Login from './Login/Login';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Register from './Register/Register';
+import Home from './Home/Home';
+
 
 function App() {
   return (
@@ -9,8 +11,9 @@ function App() {
       <Router>
       <Routes>
       <Route path="/youcanfly_lms" element={<Login />} />
-        <Route path="/youcanfly_lms/login" element={<Login />} />
-        <Route path="/youcanfly_lms/register" element={<Register />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
+        <Route path="/home" element={<Home/>} />
       </Routes>
     </Router>
     </div>

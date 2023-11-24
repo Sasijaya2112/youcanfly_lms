@@ -20,7 +20,7 @@ function Login() {
             </div>
             <form class='w-75 mx-auto p-5 text-start border shadow bg-light'>
               <div class="mb-3 mt-0">
-                <h5 style={{marginLeft:'10%', color:'darkblue' ,fontFamily:'cursive'}} className='mb-4'>Learning Management System</h5>
+                <p style={{marginLeft:'23%', color:'darkblue' ,fontFamily:'cursive', fontSize:'140%'}} className='mb-4'>Online Course Login</p>
                 <label for="useremail" class="form-label align-items-start">Email address</label>
                 <input type="email" class="form-control" id="useremail" aria-describedby="emailHelp" />
               </div>
@@ -29,10 +29,10 @@ function Login() {
                 <input type="password" class="form-control" id="password" />
               </div>
               <div class="d-flex justify-content-center gap-3">
-                <Link to="/youcanfly_lms/login">
+                <Link to="/Home">
                   <button type="submit" class="btn btn-primary mt-4 align-items-center">Login</button>
                 </Link>
-                <Link to="/youcanfly_lms/register">
+                <Link to="/register">
                   <button class="btn btn-danger mt-4 align-items-center">Sign Up</button>
                 </Link>
               </div>
